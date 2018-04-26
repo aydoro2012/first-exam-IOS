@@ -1,0 +1,183 @@
+@media (min-width: 901px) and (max-width: 1200px)  {
+
+.about {
+    margin-top: 15px;
+}
+
+.map {
+    padding-top: 15px;
+}
+
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+    margin-left: 15px;
+}
+}
+
+
+@media only screen and (max-width: 900px)  {
+
+.col-md-6 {
+    width: 50%;
+}
+    
+.services {
+    min-height: 495px;
+    padding: 15px;
+    margin: 0px;
+}
+
+.carousel-caption {
+    max-width: 100%;
+    height: 180px;
+}
+
+h1 {
+    font-size: 6vw;
+}
+
+.carousel-caption p {
+    font-size: 17px;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    color: #5b6169;
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 795px;
+    margin: 0 auto;
+    padding-top: 60px;
+}
+
+.title:before, .title:after {
+    width: 30%;
+}
+
+.container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+    
+    margin-right: 0px !important;
+    margin-left: 0px;
+}
+
+.about {
+    margin-top: 15px;
+}
+}
+
+@media (min-width: 723px) and (max-width: 768px) {
+
+.carousel-indicators {
+    top: 20px !important;
+    left: 120px !important;
+}
+
+.col-md-6 {
+    width: 80%;
+}
+}
+
+@media (min-width: 476px) and (max-width: 722px) {
+
+.progress {
+    height: 38px;
+}
+
+.col-md-6 {
+    width: 80%;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #fff !important;
+}
+
+.carousel-indicators {
+    position: absolute;
+    top: 20px !important;
+    left: 120px !important;
+    list-style: none;
+}
+
+.ios {
+    min-height: 316px;
+}
+}
+
+
+@media (min-width: 319px) and (max-width: 475px) {
+
+
+.container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+    margin-right: 0px !important;
+}
+
+.services {
+    min-height: 495px;
+    padding: 15px;
+    margin: 0px;
+}
+
+.carousel-caption {
+    max-width: 460px;
+    height: 180px;
+    top: 20px;
+    margin-left: 0px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #fff !important;
+}
+
+.carousel-caption p {
+    font-size: 17px;    
+}
+
+h2 {
+    font-size: 9vw;
+    max-width: 795px;
+    margin: 0 auto;
+    padding-top: 60px;
+}
+
+.about {
+    margin-top: 15px;
+}
+
+.map {
+    padding-top: 15px;
+    display: table;
+    margin: 0 auto;
+}
+
+.map-responsive{
+    max-width: 600px;
+}
+
+.progress {
+    height: 37px;
+}
+
+.col-lg-6 {
+    margin: 0 auto;
+    width: 100% !important;
+    padding: 15px !important;
+}
+.slide {
+    width: 325px;
+    margin-left: -20px;
+}
+.carousel-indicators {
+    position: absolute;
+    top: 20px !important;
+    left: 100px !important;
+    list-style: none;
+}
+.ios {
+    min-height: 287px;
+}
+
+}

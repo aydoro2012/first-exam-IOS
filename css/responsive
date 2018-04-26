@@ -1,0 +1,62 @@
+@media (min-width: 901px) and (max-width: 1200px)  {
+
+
+body {
+	background: red;
+}
+
+}
+
+
+@media only screen and (max-width: 900px)  {
+	
+
+.services {
+    min-height: 495px;
+    padding: 15px;
+    margin: 0px;
+}
+.carousel-caption {
+    max-width: 460px;
+    height: 180px;
+    top: 20px;
+    margin-left: 0px;
+    left: 360px;
+}
+h1 {
+    font-size: 35px;
+  }
+
+.carousel-caption p {
+    font-size: 17px;
+    
+}
+body {
+
+	background: red;
+}
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    color: #5b6169;
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 795px;
+    margin: 0 auto;
+   margin-left: 75px;
+   margin-right: 75px;
+    padding-top: 60px;
+}
+.container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+    
+        margin-right: 0px !important;
+}
+
+
+}
+@media  (min-width: 500px)  {
+	.container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+  
+        margin-right: 0px !important;
+}
+}
